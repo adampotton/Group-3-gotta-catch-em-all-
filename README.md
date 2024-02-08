@@ -1,7 +1,6 @@
 Datasets and code for AI project to classify all 151 generation one pokemon :)
 
 Dataset is from kaggle:
-
 https://www.kaggle.com/datasets/bhawks/pokemon-generation-one-22k
 
 It's too large to upload to GitHub
