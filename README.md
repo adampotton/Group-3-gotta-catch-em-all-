@@ -11,4 +11,4 @@ It's too large to upload to GitHub
       
 2a. Model which classifies 20 pokemon from separate folder with changing learning rate
  
-2b. Model which classifies 10 random pokemon from folder of 151 pokemon  
+2b. Model which classifies 20 random pokemon from folder of 151 pokemon  
