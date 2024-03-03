@@ -17,3 +17,9 @@ It's too large to upload to GitHub
    * adaptive learning rates with a scehduler
    * bigger batch size
    * built in augmentation
+
+premadepretrained_model_2:
+   * augementation working but not got brilliant accuracy
+   * both our model and a pretrained one
+   * ability to save models
+   * code made more concise and cleaned up
